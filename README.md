@@ -27,6 +27,14 @@ Automatizar o registro de conversas e respostas inteligentes em tempo real, simu
 ## 🚀 Resultado
 Um chatbot automatizado que combina IA generativa + automação de planilhas, ideal para testes de integração, suporte inteligente ou coleta de dados conversacionais.
 
+## 📥 Como usar
+1. Baixe o arquivo `Automacao_Inteligente_de_Conversas.json`
+2. Acesse sua instância do [n8n](https://n8n.io)
+3. Clique em *Importar workflow* e envie o arquivo
+4. Configure suas credenciais (Google Sheets e Groq API)
+5. Execute o fluxo para testar
+
+
 ---
 
 👩‍💻 Projeto desenvolvido para estudos e aprimoramento de habilidades em automação e inteligência artificial aplicada.
